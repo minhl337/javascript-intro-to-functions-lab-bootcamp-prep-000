@@ -16,6 +16,6 @@ function logWhisper(x){
 
 function sayHiToGrandma(x){
   if(x===uppercase){
-    
+    return
   }
 }

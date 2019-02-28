@@ -15,8 +15,8 @@ function logWhisper(x){
 }
 
 function sayHiToGrandma(x){
-var x1=x.toLowerCase;
-var x2=x.toUpperCase;
+var x1="hello";
+var x2="HELLO";
 
 if(x===x1){
   return "I can't hear you!"
@@ -25,6 +25,7 @@ if(x===x1){
 } else{
   return "I love you, too."
 }
+
 
 }
 
